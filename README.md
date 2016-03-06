@@ -65,4 +65,5 @@ For example we could set a div to display inline or a span to display block thus
 ## Resources
 
 - [Presentation Slides](https://docs.google.com/presentation/d/1UTUWDczUiDZ6byuhyHv0L3zJXQjdlnZheZXhRVLOL3Q/edit?usp=sharing)
+- [Display Property - Code Example](http://jsfiddle.net/flatiron_school/352A6/1/)
 - [MDN - CSS - Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)

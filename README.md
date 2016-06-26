@@ -15,11 +15,11 @@ This lesson will discuss the way different elements will display in the browser.
 
 *Note: Slides for this lecture video are provided in the resources at the bottom of this lesson.*
 
-All elements in the browser have a defualy display behavior. We will focus on the two most common, inline and block. Later lessons demstrate other display values such as table and table-cell among others.
+All elements in the browser have a default display behavior. We will focus on the two most common, inline and block. Later lessons demonstrate other display values such as table and table-cell among others.
 
 ### Block Elements
 
-Block level elements are king of the horizontal space, meaning they take up all of the horizontal space by default. The strech 100% wide unless we set the `width` property to something else. They always stack vertically by default. Their height can bet set, but by default they will scale to the height of their inner content. Some examples of commonly used block elements are: 
+Block level elements are king of the horizontal space, meaning they take up all of the horizontal space by default. They stretch 100% wide unless we set the `width` property to something else. They always stack vertically by default. Their height can bet set, but by default they will scale to the height of their inner content. Some examples of commonly used block elements are: 
 
 ```html
 <div>...</div>
@@ -67,3 +67,5 @@ For example we could set a div to display inline or a span to display block thus
 - [Presentation Slides](https://docs.google.com/presentation/d/1UTUWDczUiDZ6byuhyHv0L3zJXQjdlnZheZXhRVLOL3Q/edit?usp=sharing)
 - [Display Property - Code Example](http://jsfiddle.net/flatiron_school/352A6/1/)
 - [MDN - CSS - Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/css-display'>Display</a> on Learn.co and start learning to code for free.</p>

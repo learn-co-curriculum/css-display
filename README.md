@@ -4,16 +4,14 @@
 
 This lesson will discuss the way different elements will display in the browser. We will focus on the difference between inline and block elements, as well as how to change the display property.
 
+Make sure to check out the code example in the Resources section to see how these properties work!
+
 ## Objectives
 
 1. The default display behaviour of different elements.
 2. How to adjust the way an element displays.
 
 ## Element Display: Block Kings & Inline Hippies
-
-<iframe width="640" height="480" src="https://www.youtube.com/embed/bKDs_FQkkEI?rel=0" frameborder="0" allowfullscreen></iframe>
-
-*Note: Slides for this lecture video are provided in the resources at the bottom of this lesson.*
 
 All elements in the browser have a default display behavior. We will focus on the two most common, inline and block. Later lessons demonstrate other display values such as table and table-cell among others.
 
@@ -64,8 +62,6 @@ For example we could set a div to display inline or a span to display block thus
 
 ## Resources
 
-- [Presentation Slides](https://docs.google.com/presentation/d/1UTUWDczUiDZ6byuhyHv0L3zJXQjdlnZheZXhRVLOL3Q/edit?usp=sharing)
 - [Display Property - Code Example](http://jsfiddle.net/flatiron_school/352A6/1/)
 - [MDN - CSS - Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/css-display'>Display</a> on Learn.co and start learning to code for free.</p>

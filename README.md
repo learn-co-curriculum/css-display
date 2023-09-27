@@ -77,7 +77,7 @@ elements are displayed using CSS. To summarize:
   width values so you can set their width. They also accept margin on all sides.
 - Inline elements stack horizontally and ignore width and margin values. They
   are only as wide and tall as their content.
-- We can set teh display property on elements to either: `inline` or `block` to
+- We can set the display property on elements to either: `inline` or `block` to
   change their default display to another set of rules.
 
 ## Resources

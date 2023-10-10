@@ -14,7 +14,7 @@ how to change the display property.
 Make sure to check out the code example in the Resources section to see how
 these properties work!
 
-## Element Display: Block Kings & Inline Hippies
+## Element Display
 
 All elements in the browser have a default display behavior. We will focus on
 the two most common, inline and block. Later lessons demonstrate other display
@@ -37,22 +37,26 @@ inner content. Some examples of commonly used block elements are:
 <h5>...</h5>
 <h6>...</h6>
 <p>...</p>
-<ul><li>...</li></ul>
-<ol><li>...</li></ol>
+<ul>
+  <li>...</li>
+</ul>
+<ol>
+  <li>...</li>
+</ol>
 ```
 
 ### Inline Elements
 
-Inline level elements are peaceful hippies, they coexist side by side sharing the
-horizontal space. They can't have a width or top and bottom margins set on them.
-Their size will only be as wide and tall as their inner content. Some examples
-of commonly used inline elements are:
+Inline level elements can coexist side by side sharing the horizontal space.
+They can't have a width or top and bottom margins set on them. Their size will
+only be as wide and tall as their inner content. Some examples of commonly used
+inline elements are:
 
 ```html
-<img>
+<img />
 <a>...</a>
 <span>...</span>
-<input>
+<input />
 ```
 
 ### Display Property
